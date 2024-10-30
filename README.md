@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gobbcuh
 - 👀 I’m interested in evolving tech!
-- 🌱 I’m currently learning c programming and web dev
-- 💞️ I’m looking to collaborate on developing software through c programming
+- 🌱 I’m currently learning c programming, python, and web dev
+- 💞️ I’m also interested in machine learning, data science, and AWS!
 - 📫 How to reach me: jajalorino@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I also play sports, specifically table tennis
