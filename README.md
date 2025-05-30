@@ -10,6 +10,3 @@ Hello, World! I'm Jasmin! 🌟<br><br> I’m a Computer Science freshman at Nati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gobbcuh&theme=transparent&hide_border=false" width="37%" height="250px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobbcuh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="27.1%" height="250px" />
 </div>
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jasmin-lorino-314916313/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/lilmcamy/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/gobbcuh)
